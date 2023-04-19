@@ -1,6 +1,2 @@
-body {
-	background: blue;
-}
-#theTitle {
-	font-size: 22px;
-}
+let aux = document.querySelector('#theTitle');
+alert(aux.id);
